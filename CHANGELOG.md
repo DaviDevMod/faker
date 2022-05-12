@@ -1,5 +1,13 @@
 # Changelog
 
+## 7.0.1
+
+### Patch Changes
+
+- [`ab3381a1`](https://github.com/DaviDevMod/faker/commit/ab3381a193cc095fe8ffbde065852670cb8a03f7) Thanks [@DaviDevMod](https://github.com/DaviDevMod)! - Patch message
+
+* [`ce5c92f6`](https://github.com/DaviDevMod/faker/commit/ce5c92f63ef332dfafb1fd2d949d77b5535be621) Thanks [@DaviDevMod](https://github.com/DaviDevMod)! - Another patch message
+
 ## 7.0.0
 
 ### Major Changes
